@@ -10,5 +10,5 @@ Steps to run:
 - SSH into the VM (vagrant ssh)
 - go to directory where you placed files
 - run python project.py, it should tell you the server is running on localhost:5000
-- on a browser, go to http://localhost:500
+- on a browser, go to http://localhost:5000
 - enjoy!
